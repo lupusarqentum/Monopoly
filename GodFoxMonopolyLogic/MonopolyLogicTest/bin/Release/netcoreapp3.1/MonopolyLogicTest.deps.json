@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MonopolyLogicTest/1.0.0": {
+        "dependencies": {
+          "MonopolyLogic": "1.0.0"
+        },
+        "runtime": {
+          "MonopolyLogicTest.dll": {}
+        }
+      },
+      "MonopolyLogic/1.0.0": {
+        "runtime": {
+          "MonopolyLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonopolyLogicTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonopolyLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

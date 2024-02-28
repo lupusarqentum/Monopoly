@@ -1,0 +1,17 @@
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogicTest.exe
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogicTest.deps.json
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogicTest.runtimeconfig.json
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogicTest.runtimeconfig.dev.json
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogicTest.dll
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogicTest.pdb
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogic.dll
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\bin\Debug\netcoreapp3.0\MonopolyLogic.pdb
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.csprojAssemblyReference.cache
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.AssemblyInfoInputs.cache
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.AssemblyInfo.cs
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.csproj.CoreCompileInputs.cache
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.csproj.CopyComplete
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.dll
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.pdb
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogicTest\obj\Debug\netcoreapp3.0\MonopolyLogicTest.genruntimeconfig.cache

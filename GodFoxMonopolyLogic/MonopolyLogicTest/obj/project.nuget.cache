@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i38uKDGh/OcoUUTg1pfI9zuEwYWpS75SinqimvpJRRS+YSa7jVlLAGOVhEQR1M5fmgggQSAwHexkPpG7WFHsVA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\C#\\Boardgames\\Monopoly\\GodFoxMonopolyLogic\\MonopolyLogicTest\\MonopolyLogicTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

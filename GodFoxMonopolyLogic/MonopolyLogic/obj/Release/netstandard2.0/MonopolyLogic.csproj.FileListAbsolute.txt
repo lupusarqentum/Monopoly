@@ -1,0 +1,9 @@
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\bin\Release\netstandard2.0\MonopolyLogic.deps.json
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\bin\Release\netstandard2.0\MonopolyLogic.dll
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\bin\Release\netstandard2.0\MonopolyLogic.pdb
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\obj\Release\netstandard2.0\MonopolyLogic.csprojAssemblyReference.cache
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\obj\Release\netstandard2.0\MonopolyLogic.AssemblyInfoInputs.cache
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\obj\Release\netstandard2.0\MonopolyLogic.AssemblyInfo.cs
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\obj\Release\netstandard2.0\MonopolyLogic.csproj.CoreCompileInputs.cache
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\obj\Release\netstandard2.0\MonopolyLogic.dll
+D:\Project\C#\Boardgames\Monopoly\GodFoxMonopolyLogic\MonopolyLogic\obj\Release\netstandard2.0\MonopolyLogic.pdb
