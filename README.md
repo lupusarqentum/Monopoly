@@ -1,0 +1,1 @@
+This project was intended to be a logical core for an application that allows users to play Monopoly boardgame. It was being written in 2020 or 2021, I was not a good programmer (and neither am I now), so the quality of the code sucks.
